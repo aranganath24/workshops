@@ -9,4 +9,4 @@ ____
 
 ### About this site
 
-This website provides documentation that I have prepared for workshops delivered at the [Data Services](https://guides.nyu.edu/dataservices) division of [New York University Libraries](https://library.nyu.edu/) (where I was a [CLIR Postdoctoral Fellow](https://www.clir.org/fellowships/postdoc/)), and at the [Center for Research Data and Digital Scholarship](https://www.colorado.edu/crdds/) at the [University of Colorado, Boulder Libraries](https://www.colorado.edu/libraries/) (where I am currently a Data Librarian). 
+This website provides lesson plans and documentation that I prepared for workshops delivered at the [Data Services](https://guides.nyu.edu/dataservices) division of [New York University Libraries](https://library.nyu.edu/) (where I was a [CLIR Postdoctoral Fellow](https://www.clir.org/fellowships/postdoc/)), and at the [Center for Research Data and Digital Scholarship](https://www.colorado.edu/crdds/) at the [University of Colorado, Boulder Libraries](https://www.colorado.edu/libraries/) (where I am currently a Data Librarian). 

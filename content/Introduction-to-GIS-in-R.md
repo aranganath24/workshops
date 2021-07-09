@@ -10,4 +10,4 @@ I prepared this lesson plan for a workshop on GIS analysis in R Studio, taught a
 
 ### __Download the Workshop Data!__
 
-[Introduction to GIS in R Studio Data](https://github.com/aranganath24/R_Geospatial/blob/gh-pages/R-GIS-tutorial-data.zip){: .btn .btn-blue }  
+[Introduction to GIS in R Studio Data](https://github.com/aranganath24/R_Geospatial/raw/gh-pages/R-GIS-tutorial-data.zip){: .btn .btn-blue }  

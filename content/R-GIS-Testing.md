@@ -8,4 +8,3 @@ has_children: false
 
 [Link](https://aranganath24.github.io/workshops/r-gis-test/R_GIS_tutorial_documentation_final.html) 
 
-<iframe src="hhttps://aranganath24.github.io/workshops/r-gis-test/R_GIS_tutorial_documentation_final.html" style="width: 1000px; height: 3000px;" frameBorder="0"></iframe>
